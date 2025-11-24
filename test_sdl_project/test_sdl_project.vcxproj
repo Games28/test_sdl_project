@@ -82,7 +82,7 @@
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <AdditionalLibraryDirectories>$(SolutionDir)/test_sdl_project/sdl2/lib/x64;</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>$(SolutionDir)/test_sdl_project/SDL2.lib;$(SolutionDir)/test_sdl_project/SDL2main.lib;$(SolutionDir)/test_sdl_project/SDL2_image.lib;$(SolutionDir)/test_sdl_project/SDL2_mixer.lib</AdditionalLibraryDirectories>
       <AdditionalDependencies>SDL2.lib;SDL2main.lib;SDL2_image.lib;SDL2_mixer.lib;$(CoreLibraryDependencies);%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
@@ -100,7 +100,7 @@
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <AdditionalLibraryDirectories>$(SolutionDir)/test_sdl_project/sdl2/lib/x64;</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>$(SolutionDir)/test_sdl_project/SDL2.lib;$(SolutionDir)/test_sdl_project/SDL2main.lib;$(SolutionDir)/test_sdl_project/SDL2_image.lib;$(SolutionDir)/test_sdl_project/SDL2_mixer.lib</AdditionalLibraryDirectories>
       <AdditionalDependencies>SDL2.lib;SDL2main.lib;SDL2_image.lib;SDL2_mixer.lib;$(CoreLibraryDependencies);%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
@@ -116,7 +116,7 @@
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <AdditionalLibraryDirectories>$(SolutionDir)/test_sdl_project/sdl2/lib/x64;</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>$(SolutionDir)/test_sdl_project/SDL2.lib;$(SolutionDir)/test_sdl_project/SDL2main.lib;$(SolutionDir)/test_sdl_project/SDL2_image.lib;$(SolutionDir)/test_sdl_project/SDL2_mixer.lib</AdditionalLibraryDirectories>
       <AdditionalDependencies>SDL2.lib;SDL2main.lib;SDL2_image.lib;SDL2_mixer.lib;$(CoreLibraryDependencies);%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
@@ -134,7 +134,7 @@
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <AdditionalLibraryDirectories>$(SolutionDir)/test_sdl_project/sdl2/lib/x64;</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>$(SolutionDir)/test_sdl_project/SDL2.lib;$(SolutionDir)/test_sdl_project/SDL2main.lib;$(SolutionDir)/test_sdl_project/SDL2_image.lib;$(SolutionDir)/test_sdl_project/SDL2_mixer.lib</AdditionalLibraryDirectories>
       <AdditionalDependencies>SDL2.lib;SDL2main.lib;SDL2_image.lib;SDL2_mixer.lib;$(CoreLibraryDependencies);%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
